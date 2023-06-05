@@ -1,0 +1,4 @@
+name: HalfHeartEat
+version: '1.0-SNAPSHOT'
+main: spegoman.halfhearteat.HalfHeartEat
+api-version: 1.19
