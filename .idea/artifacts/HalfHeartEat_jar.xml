@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="HalfHeartEat:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/HalfHeartEat_jar</output-path>
-    <root id="archive" name="HalfHeartEat.jar">
-      <element id="module-output" name="HalfHeartEat" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
-    </root>
-  </artifact>
-</component>
